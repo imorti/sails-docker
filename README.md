@@ -1,3 +1,5 @@
-# vanilla
+# Sails-Docker
 
-a [Sails](http://sailsjs.org) application
+A repo with a basic sails application. 
+
+
